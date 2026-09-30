@@ -1,0 +1,21 @@
+id,date,source,product_area,review_text,rating
+1,2026-09-22,app_store,billing,"I was charged twice for my monthly subscription and it took support four days to refund the duplicate. Really frustrating.",1
+2,2026-09-22,trustpilot,onboarding,"Setup was surprisingly easy. The guided tour got my whole team running in under an hour. Great first experience!",5
+3,2026-09-23,support_ticket,performance,"The dashboard takes 30+ seconds to load every morning. We have a leadership meeting at 9am and this keeps making us late.",2
+4,2026-09-23,app_store,support,"Support agent was friendly and solved my issue in one chat. Would happily contact them again.",5
+5,2026-09-24,trustpilot,billing,"Invoices are confusing. I can't tell which line items are usage fees versus the base plan. It's okay otherwise.",3
+6,2026-09-24,support_ticket,onboarding,"Importing our existing data failed three times with a vague error message. We're two weeks into the trial and still not live.",1
+7,2026-09-25,app_store,performance,"App crashes whenever I try to export a report larger than 500 rows. Have lost work multiple times.",1
+8,2026-09-25,trustpilot,support,"Waited 6 days for a reply to my ticket. When it came, it was a canned response that did not address my question.",2
+9,2026-09-26,support_ticket,billing,"Please confirm whether annual plans can be switched to monthly mid-term. No urgency, just planning for next quarter.",3
+10,2026-09-26,app_store,onboarding,"The tutorial videos are helpful but a bit long. Would love a quick-start checklist instead.",4
+11,2026-09-27,trustpilot,performance,"Search is noticeably faster since the last update. Nice improvement, thank you to the team.",5
+12,2026-09-27,support_ticket,support,"This is the third time I've had to explain my issue to a new agent. Nobody seems to read the ticket history. We are evaluating alternatives.",1
+13,2026-09-28,app_store,billing,"Price increase announced with only a week of notice. Feels disrespectful to long-time customers.",2
+14,2026-09-28,trustpilot,onboarding,"Onboarding call with the customer success manager was excellent. She tailored everything to our workflow.",5
+15,2026-09-29,support_ticket,performance,"Sync between mobile and web is unreliable. Changes made on my phone sometimes don't appear on desktop until the next day.",2
+16,2026-09-29,app_store,support,"Help center articles are outdated. Screenshots don't match the current interface so I had to guess.",3
+17,2026-09-29,trustpilot,billing,"Billing portal is clean and I could download all my receipts in seconds. Exactly what I needed.",4
+18,2026-09-30,support_ticket,onboarding,"New users on my team keep getting stuck at the permissions step. Nothing explains what each role can do.",2
+19,2026-09-30,app_store,performance,"Works fine for me. Nothing special, nothing broken. Average performance overall.",3
+20,2026-09-30,trustpilot,support,"Chat support resolved my login lockout in five minutes. Impressive turnaround!",5
